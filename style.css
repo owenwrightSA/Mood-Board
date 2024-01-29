@@ -1,4 +1,4 @@
-#moodbox {
+#board {
     width: 300px;
     height: 200px;
     border: 15px solid black;
@@ -14,7 +14,7 @@
     text-align: center;
 }
 
-#explanation{
+#instructions{
     margin: auto;
     margin-top: 15px;
     width: 230px;
