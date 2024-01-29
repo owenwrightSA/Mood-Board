@@ -3,6 +3,10 @@ var colorTable = {
     "sad": "blue",
     "happy": "yellow",
     "hungry": "orange",
+    "tired": "purple",
+    "scared": "brown",
+    "frustrated": "smoke",
+    "excited": "green",
 }
 
 function changeMood() {
