@@ -5,7 +5,7 @@ var colorTable = {
     "hungry": "orange",
     "tired": "purple",
     "scared": "brown",
-    "frustrated": "smoke",
+    "frustrated": "grey",
     "excited": "green",
 }
 
